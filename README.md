@@ -1,5 +1,5 @@
-# IT Fundamentals Supplemental Material
-Welcome to GitHub and my supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below.
+# CompTIA IT Fundamentals Course Schedule & Supplemental Material
+Welcome to the course schedule & supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below.
 
 ## Course Schedule
 | **Week** | **Monday** | **Tuesday** | **Wednesday** |
