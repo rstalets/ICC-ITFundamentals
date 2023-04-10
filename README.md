@@ -1,5 +1,5 @@
 # CompTIA IT Fundamentals at Illinois Central College
-Welcome to the course schedule & supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below.
+Welcome to the course schedule & supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below. Shortened link to this content: https://tinyurl.com/icc-itfundamentals
 
 ## Course Schedule
 | **Week** | **Monday** | **Tuesday** | **Wednesday** |
