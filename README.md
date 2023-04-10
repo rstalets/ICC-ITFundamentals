@@ -4,7 +4,7 @@ Welcome to GitHub and my supplemental materials for CompTIA IT Fundamentals at I
 ## Course Schedule
 | **Week** | **Monday** | **Tuesday** | **Wednesday** |
 | --- | --- | --- | --- |
-|[Week 1](/Week%201.md) (April 10-12) | - Module 1, Unit 1: Common Computing Devices<br />- Module 1, Unit 2: Using a Workstation | - Module 1, Unit 3: Using an OS (Operating System)<br />- Module 1, Unit 4: Managing an OS | Lab Setup & Labs |
+|[Week 1](weeks/Week%201.md) (April 10-12) | - Module 1, Unit 1: Common Computing Devices<br />- Module 1, Unit 2: Using a Workstation | - Module 1, Unit 3: Using an OS (Operating System)<br />- Module 1, Unit 4: Managing an OS | Lab Setup & Labs |
 | Week 2 (April 17-19) | - Module 1, Unit 5: Troubleshooting and Support<br />- Module 1 Review | - Module 2, Unit 1: Using Data Types and Units<br />- Module 2, Unit 2: Using Apps | Labs |
 | Week 3 (April 24-26) | - Module 2, Unit 3: Programming and App Development | - Module 3, Unit 4: Using Databases<br />- Module 2 Review | Labs |
 | Week 4 (May 1-3) | - Module 3, Unit 1: System Components<br />- Module 3, Unit 2: Using Device Interfaces | - Module 3, Unit 3: Using Peripheral Devices | Labs |
