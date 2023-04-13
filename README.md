@@ -17,7 +17,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 1, Unit 3: Using an OS (Operating System)
 - Module 1, Unit 4: Managing an OS
 
-### Week 2 (April 17-19)
+### [Week 2](weeks/Week%202.md) (April 17-19)
 **Monday**
 - Module 1, Unit 5: Troubleshooting and Support
 - Module 1 Review
