@@ -26,3 +26,6 @@
 ### TestOut Quizzes
 [4.5.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.5.16): Application Software Section Quiz \
 [4.7.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.7): Software Troubleshooting Section Quiz
+
+## Bonus Learning
+[TestOut Section 4.8: System Support Careers](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.8)
