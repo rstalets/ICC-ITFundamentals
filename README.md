@@ -26,12 +26,12 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 2, Unit 1: Using Data Types and Units
 - Module 2, Unit 2: Using Apps
 
-### Week 3 (April 24-26)
+### [Week 3](weeks/Week%203.md) (April 24-26)
 **Monday**
 - Module 2, Unit 3: Programming and App Development
 
 **Tuesday**
-- Module 3, Unit 4: Using Databases
+- Module 2, Unit 4: Using Databases
 - Module 2 Review
 
 ### Week 4 (May 1-3)
