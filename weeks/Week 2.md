@@ -24,5 +24,5 @@
 [9.3.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.7): Use Microsoft Excel Charts to Analyze Data ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.6)) \
 \
 **TestOut Quizzes** \
-[4.5.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.5.16): Application Software Section Quiz
+[4.5.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.5.16): Application Software Section Quiz \
 [4.7.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.7): Software Troubleshooting Section Quiz
