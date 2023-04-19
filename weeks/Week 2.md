@@ -27,5 +27,9 @@
 [4.5.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.5.16): Application Software Section Quiz \
 [4.7.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.7): Software Troubleshooting Section Quiz
 
+### Bonus Labs
+[4.4.14](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.14/): Use PowerShell Commands ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.13/)) \
+[4.4.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.16/): Use Linux Shell Commands ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.15/))
+
 ## Bonus Learning
 [TestOut Section 4.8: System Support Careers](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.8)
