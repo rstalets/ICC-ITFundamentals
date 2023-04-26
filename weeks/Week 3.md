@@ -39,3 +39,6 @@
 - [8.3.18](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/8.3.18): Programming Fundamentals Quiz
 - [7.3.12](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/7.3.12): Relational Databases Section Quiz
 - [7.4.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/7.4.16): Querying Databases Section Quiz
+
+### Bonus Work
+- Start the Python 3 course at CodeAcademy here: https://www.codecademy.com/learn/learn-python-3. You will need to sign up.
