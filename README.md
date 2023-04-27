@@ -45,7 +45,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 **Tuesday**
 - Module 3, Unit 3: Using Peripheral Devices
 
-### Week 5 (May 8-10)
+### [Week 5](weeks/Week%205.md) (May 8-10)
 **Monday**
 - Module 3, Unit 4: Using Storage Devices
 
