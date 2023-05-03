@@ -15,7 +15,7 @@
 
 ## Wednesday
 ### TestOut Labs
-[3.3.10](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.10/): Explore the Motherboard ([Video](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.09)) \
+[3.3.10](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.10/): Explore the Motherboard ([Video](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.9)) \
 [3.3.12](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.12): Install Memory ([Video](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.11)) \
 [3.3.14](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.14): Upgrade a Video Card ([Video](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.3.13)) \
 [3.5.5](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.5.5): Install SATA Devices ([Video](https://labsimapp.testout.com/v6_0_546/index.html/productviewer/1184/3.5.4)) \
