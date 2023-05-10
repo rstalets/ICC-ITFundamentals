@@ -53,7 +53,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 3, Unit 5: Using File Systems
 - Module 3 Review
 
-### Week 6 (May 15-17)
+### [Week 6](weeks/Week%206.md) (May 15-17)
 **Monday**
 - Module 4, Unit 1: Networking Concepts
 - Module 4, Unit 2: Connecting to a Network
