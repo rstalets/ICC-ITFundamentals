@@ -35,3 +35,6 @@
 
 ### TestOut Quizzes
 - [6.2.12](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/6.2.12): Networking Basics Quiz
+
+### Bonus Material
+- [6.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/6.8): Networking Careers
