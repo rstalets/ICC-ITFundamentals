@@ -1,6 +1,6 @@
 # CompTIA IT Fundamentals at Illinois Central College
-Welcome to the course schedule & supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below. \
-\
+Welcome to the course schedule & supplemental materials for CompTIA IT Fundamentals at Illinois Central College. Each week will have presentations, reading, labs, and supplemental videos that we will review in class. You can review the reading, lab assignments, and videos we reviewed in class by clicking the links below.
+
 ## Helpful Links
 - Shortlink to this page: https://tinyurl.com/icc-itfundamentals
 - eBook: https://learn.comptia.org/app/comptia-certmaster-learn-for-itf-fc0-u61-ebook#resources
@@ -64,7 +64,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 4, Unit 5: Using Mobile Devices
 - Module 4 Review
 
-### Week 7 (May 22-24)
+### [Week 7](weeks/Week%207.md) (May 22-24)
 **Monday**
 - Module 5, Unit 1: Security Concerns
 - Module 5, Unit 2: Using Best Practices
@@ -74,7 +74,9 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 5, Unit 4: Behavioral Security Concepts
 
 ### Week 8 (May 29-31)
-**Monday & Tuesday**
+**No class Monday, Memorial Day**
+
+**Tuesday**
 - Final review
 
 **Wednesday**
@@ -102,3 +104,13 @@ Java is a programming language commonly used in custom business applications and
 HTML is a markup language used for formatting static information in web browsers. JavaScript is a scripting language which can allow a developer to provide dynamic (interactive) content by running code in the user's web browser.
 - CodeAcademy HTML: https://www.codecademy.com/learn/learn-html
 - CodeAcademy JavaScript: https://www.codecademy.com/learn/introduction-to-javascript
+
+## Cybersecurity
+### Books
+_How Cybersecurity Really Works_, Sam Grubb
+- [ICC Library](https://i-share-icc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9912627118605896&context=L&vid=01CARLI_ICC:CARLI_ICC&lang=en&search_scope=NewDiscoveryNetwork&adaptor=Local%20Search%20Engine&tab=NewDiscoveryNetwork&query=any,contains,9781718501287&mode=basic)
+- [Peoria Public Library](https://alsi.sdp.sirsi.net/client/en_US/PeoriaPL/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2202095/ada?qu=9781718501287&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A2202095%7EILS%7E0&h=8)
+- [Buy from Publisher](https://nostarch.com/cybersecurityreallyworks)
+
+### Courses
+- [Harvard CS50 Introduction to Cybersecurity on EdX](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
