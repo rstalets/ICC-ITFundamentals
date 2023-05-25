@@ -13,7 +13,7 @@
 - [10.6.6](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.6): Install UPS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.5))
 - [10.6.9](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.9): Create RAID Arrays ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.8))
 - [10.6.13](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.13): Use Backup Software ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.12))
-- [10.6.15](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.14): Configure File History ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.14))
+- [10.6.15](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.15): Configure File History ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.14))
 - [10.6.17](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.17): Restore Data from File History ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/10.6.16))
 
 ### TestOut Quizzes
