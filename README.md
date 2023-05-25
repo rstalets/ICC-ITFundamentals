@@ -73,7 +73,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 5, Unit 3: Using Access Controls
 - Module 5, Unit 4: Behavioral Security Concepts
 
-### Week 8 (May 29-31)
+### [Week 8](weeks/Week%208.md) (May 29-31)
 **No class Monday, Memorial Day**
 
 **Tuesday**
