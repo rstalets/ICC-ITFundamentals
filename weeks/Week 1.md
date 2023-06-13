@@ -19,11 +19,19 @@
 *Reading*: Pages 65-84 in the IT Fundamentals textbook.
 
 ## Wednesday
-**TestOut Labs** \
-3.4.11: Connect a Monitor \
-3.4.13: Install Periphrials (USB Devices) \
-3.4.15: Setting up a computer explained \
-3.5.16: Perform Disk Maintenance \
-4.2.8: Explore the Windows 10 OS \
-4.2.10: Change Windows Settings \
-4.2.12: Exploring iOS
+### TestOut Labs
+- [3.4.15](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.4.15): Setting up a computer explained
+- [3.5.16](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.16): Perform Disk Maintenance ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.15))
+- [4.2.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.8): Explore the Windows 10 OS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.7))
+- [4.2.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.10): Change Windows Settings ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.9))
+- [4.2.12](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.12): Exploring iOS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.12))
+
+### Hands-On
+- Connect a monitor & peripherals
+
+### Practice Quizzes
+Log into your eBook and on the left side click "practice"
+- Lesson 1: Common Computing Devices
+- Lesson 2: Using a Workstation
+- Lesson 3: Using an OS
+- Lesson 4: Managing an OS

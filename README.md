@@ -11,7 +11,7 @@ Welcome to the course schedule & supplemental materials for CompTIA IT Fundament
 ## Course Schedule
 Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 
-### [Week 1](weeks/Week%201.md) (April 10-12)
+### [Week 1](weeks/Week%201.md) (June 12-14)
 **Monday**
 - Module 1, Unit 1: Common Computing Devices
 - Module 1, Unit 2: Using a Workstation
@@ -20,40 +20,39 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 1, Unit 3: Using an OS (Operating System)
 - Module 1, Unit 4: Managing an OS
 
-### [Week 2](weeks/Week%202.md) (April 17-19)
-**Monday**
-- Module 1, Unit 5: Troubleshooting and Support
-- Module 1 Review
+### [Week 2](weeks/Week%202.md) (June 19-21)
+**No class Monday in observance of Juneteenth**
 
 **Tuesday**
+- Module 1, Unit 5: Troubleshooting and Support
 - Module 2, Unit 1: Using Data Types and Units
-- Module 2, Unit 2: Using Apps
 
-### [Week 3](weeks/Week%203.md) (April 24-26)
+### [Week 3](weeks/Week%203.md) (June 26-28)
 **Monday**
+- Module 2, Unit 2: Using Apps
 - Module 2, Unit 3: Programming and App Development
 
 **Tuesday**
 - Module 2, Unit 4: Using Databases
 - Module 2 Review
 
-### [Week 4](weeks/Week%204.md) (May 1-3)
+### [Week 4](weeks/Week%204.md) (July 3-5)
 **Monday**
 - Module 3, Unit 1: System Components
 - Module 3, Unit 2: Using Device Interfaces
 
-**Tuesday**
-- Module 3, Unit 3: Using Peripheral Devices
+**No class Tuesday in observance of Independence Day**
 
-### [Week 5](weeks/Week%205.md) (May 8-10)
+### [Week 5](weeks/Week%205.md) (July 10-12)
 **Monday**
+- Module 3, Unit 3: Using Peripheral Devices
 - Module 3, Unit 4: Using Storage Devices
 
 **Tuesday**
 - Module 3, Unit 5: Using File Systems
 - Module 3 Review
 
-### [Week 6](weeks/Week%206.md) (May 15-17)
+### [Week 6](weeks/Week%206.md) (July 17-19)
 **Monday**
 - Module 4, Unit 1: Networking Concepts
 - Module 4, Unit 2: Connecting to a Network
@@ -64,7 +63,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 4, Unit 5: Using Mobile Devices
 - Module 4 Review
 
-### [Week 7](weeks/Week%207.md) (May 22-24)
+### [Week 7](weeks/Week%207.md) (July 24-26)
 **Monday**
 - Module 5, Unit 1: Security Concerns
 - Module 5, Unit 2: Using Best Practices
@@ -73,14 +72,14 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 5, Unit 3: Using Access Controls
 - Module 5, Unit 4: Behavioral Security Concepts
 
-### [Week 8](weeks/Week%208.md) (May 29-31)
-**No class Monday, Memorial Day**
-
-**Tuesday**
+### [Week 8](weeks/Week%208.md) (July 31 - Aug 2)
+**Monday**
 - Final review
 
-**Wednesday**
+**Tuesday**
 - Final practice test
+
+**Class cancelled Wednesday**
 
 ## Modules
 1. Using Computers
