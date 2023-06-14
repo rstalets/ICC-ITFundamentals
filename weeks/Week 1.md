@@ -20,7 +20,7 @@
 
 ## Wednesday
 ### TestOut Labs
-- [3.4.15](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.4.15): Setting up a computer explained
+- **[Click here](https://labsimapp.testout.com/v6_0_553/index.html/createaccount?inviteid=e427774d-aa57-4dbf-b784-d198c7d6b5de) to activate LabSim and join the class**
 - [3.5.16](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.16): Perform Disk Maintenance ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.15))
 - [4.2.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.8): Explore the Windows 10 OS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.7))
 - [4.2.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.10): Change Windows Settings ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.9))
@@ -30,7 +30,7 @@
 - Connect a monitor & peripherals
 
 ### Practice Quizzes
-Log into your eBook and on the left side click "practice"
+**[Click here](https://learn.comptia.org/app/comptia-certmaster-learn-for-itf-fc0-u61-ebook#quizzes) to access the eBook quizzes.**
 - Lesson 1: Common Computing Devices
 - Lesson 2: Using a Workstation
 - Lesson 3: Using an OS
