@@ -29,10 +29,6 @@
 - [4.5.13](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.13): Use Microsoft Word ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.12/))
 - [4.5.15](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.15): Use Microsoft PowerPoint ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.14))
 
-### Bonus Labs
-
-
-
 ### Hands-On
 - Connect a monitor & peripherals
 
