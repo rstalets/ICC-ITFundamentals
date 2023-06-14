@@ -25,6 +25,13 @@
 - [4.2.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.8): Explore the Windows 10 OS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.7))
 - [4.2.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.10): Change Windows Settings ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.9))
 - [4.2.12](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.12): Exploring iOS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.12))
+- [4.5.11](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.11): Use Desktop Applications ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.10))
+- [4.5.13](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.13): Use Microsoft Word ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.12/))
+- [4.5.15](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.15): Use Microsoft PowerPoint ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.14))
+
+### Bonus Labs
+
+
 
 ### Hands-On
 - Connect a monitor & peripherals
