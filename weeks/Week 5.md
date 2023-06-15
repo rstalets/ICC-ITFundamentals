@@ -1,4 +1,7 @@
 ## Monday
+### Module 3, Unit 3: Using Peripheral Devices
+*Reading*: Pages 249-275 in the IT Fundamentals textbook. 
+
 ### Module 3, Unit 4: Using Storage Devices
 *Reading*: Pages 276-288
 

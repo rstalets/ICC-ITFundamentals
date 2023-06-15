@@ -1,17 +1,15 @@
 ## Monday
+**No class Monday - Juneteenth**
+
+## Tuesday
 ### Module 1, Unit 5: Troubleshooting & Support
 *Reading*: Pages 85-106 in the IT Fundamentals textbook. \
 *Google Search Operators*: https://support.google.com/websearch/answer/2466433?hl=en \
 *Software Troubleshooting Steps*: https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.1
 
-## Tuesday
 ### Module 2, Unit 1: Using Data Types and Units
 *Reading*: Pages 107-123 in the IT Fundamentals textbook. \
 *Converting Binary to Hexadecimal*: https://www.youtube.com/watch?v=G5Rpxhtmo3I
-
-### Module 2, Unit 2: Using Apps
-*Reading*: Pages 124-143 in the IT Fundamentals textbook. \
-*Software Licensing*: https://www.youtube.com/watch?v=-tcaBH4o4qo
 
 ## Wednesday
 ### TestOut Labs

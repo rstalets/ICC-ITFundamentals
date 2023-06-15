@@ -1,4 +1,8 @@
 ## Monday
+### Module 2, Unit 2: Using Apps
+*Reading*: Pages 124-143 in the IT Fundamentals textbook. \
+*Software Licensing*: https://www.youtube.com/watch?v=-tcaBH4o4qo
+
 ### Module 2, Unit 3: Programming and App Development
 *Reading*: Pages 144-177 in the IT Fundamentals textbook. \
 *How to Write a Simple Batch File in Windows*: https://www.youtube.com/watch?v=fu2S4MjA6A8 \
