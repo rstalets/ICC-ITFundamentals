@@ -21,9 +21,9 @@
 [9.3.5](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.5): Use Microsoft Excel Tables to Analyze Data ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.4)) \
 [9.3.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.7): Use Microsoft Excel Charts to Analyze Data ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.6)) 
 
-### TestOut Quizzes
-[4.5.16](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.5.16): Application Software Section Quiz \
-[4.7.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.7): Software Troubleshooting Section Quiz
+### Quizzes (in the eBook area on CompTIA website)
+- Lesson 5: Troubleshooting and Support
+- Lesson 6: Using Data Types
 
 ### Bonus Labs
 [4.4.14](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.14/): Use PowerShell Commands ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.13/)) \
