@@ -30,3 +30,8 @@
 - [8.5.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/8.5.8): HTML: Create Ordered and Unordered Lists
 - [8.5.9](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/8.5.9): HTML: Add Images and Hyperlinks
 - [8.5.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/8.5.10): HTML: Link a CSS File to an HTML Page
+
+### eBook Quizzes
+- Lesson 12: Using Peripheral Devices
+- Lesson 13: Using Storage Devices
+- Lesson 14: Using File Systems
