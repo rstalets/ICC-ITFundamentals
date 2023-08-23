@@ -1,15 +1,20 @@
 ## Monday
-**No class Monday - Juneteenth**
+### Module 1, Unit 4: Managing an OS
+*Reading*: Pages 65-84 in the IT Fundamentals textbook.
 
-## Tuesday
 ### Module 1, Unit 5: Troubleshooting & Support
 *Reading*: Pages 85-106 in the IT Fundamentals textbook. \
 *Google Search Operators*: https://support.google.com/websearch/answer/2466433?hl=en \
 *Software Troubleshooting Steps*: https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.7.1
 
+## Tuesday
 ### Module 2, Unit 1: Using Data Types and Units
 *Reading*: Pages 107-123 in the IT Fundamentals textbook. \
 *Converting Binary to Hexadecimal*: https://www.youtube.com/watch?v=G5Rpxhtmo3I
+
+### Module 2, Unit 2: Using Apps
+*Reading*: Pages 124-143 in the IT Fundamentals textbook. \
+*Software Licensing*: https://www.youtube.com/watch?v=-tcaBH4o4qo
 
 ## Wednesday
 ### TestOut Labs
@@ -22,8 +27,10 @@
 [9.3.7](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.7): Use Microsoft Excel Charts to Analyze Data ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/9.3.6)) 
 
 ### Quizzes (in the eBook area on CompTIA website)
+- Lesson 4: Managing an OS
 - Lesson 5: Troubleshooting and Support
 - Lesson 6: Using Data Types
+- Lesson 7: Using Apps
 
 ### Bonus Labs
 [4.4.14](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.14/): Use PowerShell Commands ([Video](https://labsimapp.testout.com/v6_0_545/index.html/productviewer/1184/4.4.13/)) \

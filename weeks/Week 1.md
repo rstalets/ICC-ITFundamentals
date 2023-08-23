@@ -15,12 +15,9 @@
 *Simple Explanation of Virtualization*: https://youtu.be/GeXwR32GCOw \
 *Browser Basics*: https://youtu.be/FxirRVJWUTs
 
-### Module 1, Unit 4: Managing an OS
-*Reading*: Pages 65-84 in the IT Fundamentals textbook.
-
 ## Wednesday
 ### TestOut Labs
-- **[Click here](https://labsimapp.testout.com/v6_0_553/index.html/createaccount?inviteid=e427774d-aa57-4dbf-b784-d198c7d6b5de) to activate LabSim and join the class**
+- **[Click here](https://labsimapp.testout.com/v6_0_567/index.html/createaccount?inviteid=c2d82824-1b25-4b12-be72-c4be23dd393f) to activate LabSim and join the class**
 - [3.5.16](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.16): Perform Disk Maintenance ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.15))
 - [4.2.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.8): Explore the Windows 10 OS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.7))
 - [4.2.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.10): Change Windows Settings ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.9))
@@ -37,4 +34,3 @@
 - Lesson 1: Common Computing Devices
 - Lesson 2: Using a Workstation
 - Lesson 3: Using an OS
-- Lesson 4: Managing an OS
