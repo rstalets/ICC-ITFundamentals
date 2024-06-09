@@ -9,10 +9,38 @@ Welcome to the course schedule & supplemental materials for CompTIA IT Fundament
 - MyICC: https://eservices.icc.edu
 - Student Email: http://webmail.lab.icc.edu/
 
+## Course Purpose
+The purpose of this course is to introuduce the student to the field of information technology (IT) and prepare them to take the CompTIA IT Fundamentals+ certification. Students in this course should be individuals interested in pursuing a career in information technology. It is _not_ a course which is intended to provide instruction on how to use a computer, email, word processing programs, or the internet. Students who need instruction on how to use a computer or the internet are encouraged to contact the Workforce Development Office regarding Northstar Digital Literacy. 
+
+This is a **non-credit, no-grade** course offered through the ICC Workforce Development Office.
+
+Students who complete this course through active participation will be ready to pursue additional courses (such as CompTIA A+ and networking) to prepare them for an entry-level information technology job. This course on its own will not be considered sufficient to begin an entry-level job to most employers.
+
+## What Questions Does this Course Answer?
+This course will answer five questions at a fundamental level.
+
+1. How does a user interact with a computer and its software? (Week 1)
+2. What does software run on? (Week 2)
+3. How is software written? (Week 2-4)
+4. What does the operating system run on? (Week 4-5)
+5. How do computers communicate with each other? (Week 6)
+6. How do we do all of this securely? (Week 7)
+
+## Student Expectations
+Every course you will take has certain expectations, and this one is no exception. Below are the expectations you will be expected to adhere to throughout the course.
+
+1. Behave as you would in the workplace. This means you should: 
+    - Be on time and ready to learn.
+    - Keep class materials such as your book, notes, license keys, important documents, and links organized.
+    - Take notes on instructions (such as the location of the class webpage and how to use this schedule) or assignments (such as which labs you should complete on a certain day) so that they do not need to be repeated.
+    - Use the resources available to you (such as ICC Career Services) to help you grow in your workplace skills.
+2. Read the assigned material before coming to class. With the exception of Week 1, students are expected to have read the assigned units before arriving to class. 
+3. Participate actively. You will only get out of this class what you put into it - participate actively by completing all assigned reading, labs, and participating in class.
+
 ## Course Schedule
 Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 
-### [Week 1](weeks/Week%201.md) (August 21-23)
+### [Week 1](weeks/Week%201.md) (June 10-12)
 **Monday**
 - Module 1, Unit 1: Common Computing Devices
 - Module 1, Unit 2: Using a Workstation
@@ -21,7 +49,7 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 1, Unit 3: Using an OS (Operating System)
 
 
-### [Week 2](weeks/Week%202.md) (August 28-30)
+### [Week 2](weeks/Week%202.md) (June 17-19)
 **Monday**
 - Module 1, Unit 4: Managing an OS
 - Module 1, Unit 5: Troubleshooting & Support 
@@ -30,14 +58,16 @@ Note: Wednesday of each week is dedicated to labs unless otherwise noted.
 - Module 2, Unit 1: Using Data Types and Units
 - Module 2, Unit 2: Using Apps
 
-### [Week 3](weeks/Week%203.md) (September 4-6)
-**Monday**
-_No class - Labor Day_
+**NO CLASS Wednesday, June 19 in observance of Juneteenth**
+
+### [Week 3](weeks/Week%203.md) (June 24-26)
+**Monday** \
+_Lab makeup day from Wednesday, June 19 - bring headphones!_
 
 **Tuesday**
 - Module 2, Unit 3: Programming and App Development
 
-### [Week 4](weeks/Week%204.md) (September 11-13)
+### [Week 4](weeks/Week%204.md) (July 1-3)
 **Monday**
 - Module 2, Unit 4: Using Databases
 - _Additional labs - bring headphones!_
@@ -46,7 +76,7 @@ _No class - Labor Day_
 - Module 3, Unit 1: System Components
 - Module 3, Unit 2: Using Device Interfaces
 
-### [Week 5](weeks/Week%205.md) (September 18-20)
+### [Week 5](weeks/Week%205.md) (July 8-10)
 **Monday**
 - Module 3, Unit 3: Using Peripheral Devices
 - Module 3, Unit 4: Using Storage Devices
@@ -54,7 +84,7 @@ _No class - Labor Day_
 **Tuesday**
 - Module 3, Unit 5: Using File Systems
 
-### [Week 6](weeks/Week%206.md) (September 25-27)
+### [Week 6](weeks/Week%206.md) (July 15-17)
 **Monday**
 - Module 4, Unit 1: Networking Concepts
 - Module 4, Unit 2: Connecting to a Network
@@ -64,7 +94,7 @@ _No class - Labor Day_
 - Module 4, Unit 4: Using Shared Storage
 - Module 4, Unit 5: Using Mobile Devices
 
-### [Week 7](weeks/Week%207.md) (October 2-4)
+### [Week 7](weeks/Week%207.md) (July 22-24)
 **Monday**
 - Module 5, Unit 1: Security Concerns
 - Module 5, Unit 2: Using Best Practices
@@ -73,7 +103,7 @@ _No class - Labor Day_
 - Module 5, Unit 3: Using Access Controls
 - Module 5, Unit 4: Behavioral Security Concepts
 
-### [Week 8](weeks/Week%208.md) (October 9-11)
+### [Week 8](weeks/Week%208.md) (July 29-31)
 **Monday**
 - Review & Practice Tests
 
