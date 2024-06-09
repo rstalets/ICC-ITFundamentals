@@ -1,5 +1,5 @@
 ## Monday
-**No Class - Labor Day**
+_Lab makeup day from Wednesday, June 19 - bring headphones!_
 
 
 ## Tuesday
