@@ -12,7 +12,7 @@ Welcome to the course schedule & supplemental materials for CompTIA IT Fundament
 ## Course Purpose
 The purpose of this course is to introuduce the student to the field of information technology (IT) and prepare them to take the CompTIA IT Fundamentals+ certification. Students in this course should be individuals interested in pursuing a career in information technology. It is _not_ a course which is intended to provide instruction on how to use a computer, email, word processing programs, or the internet. Students who need instruction on how to use a computer or the internet are encouraged to contact the Workforce Development Office regarding Northstar Digital Literacy. 
 
-This is a **non-credit, no-grade** course offered through the ICC Workforce Development Office.
+This is a **non-credit, no-grade** course offered as part of the Workforce Equity Initiative.
 
 Students who complete this course through active participation will be ready to pursue additional courses (such as CompTIA A+ and networking) to prepare them for an entry-level information technology job. This course on its own will not be considered sufficient to begin an entry-level job to most employers.
 
