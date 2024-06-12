@@ -17,7 +17,7 @@
 
 ## Wednesday
 ### TestOut Labs
-- **[Click here](https://labsimapp.testout.com/v6_0_567/index.html/createaccount?inviteid=c2d82824-1b25-4b12-be72-c4be23dd393f) to activate LabSim and join the class**
+- **[Click here](https://labsimapp.testout.com/v6_0_603/index.html/createaccount?inviteid=09ee5706-49f8-41e0-9e78-9be6a5d4ddb9) to activate LabSim and join the class**
 - [3.5.16](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.16): Perform Disk Maintenance ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/3.5.15))
 - [4.2.8](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.8): Explore the Windows 10 OS ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.7))
 - [4.2.10](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.10): Change Windows Settings ([Video](https://labsimapp.testout.com/v6_0_547/index.html/productviewer/1184/4.2.9))
@@ -26,11 +26,8 @@
 - [4.5.13](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.13): Use Microsoft Word ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.12/))
 - [4.5.15](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.15): Use Microsoft PowerPoint ([Video](https://labsimapp.testout.com/v6_0_553/index.html/productviewer/1184/4.5.14))
 
-### Hands-On
-- Connect a monitor & peripherals
 
 ### Practice Quizzes
-**[Click here](https://learn.comptia.org/app/comptia-certmaster-learn-for-itf-fc0-u61-ebook#quizzes) to access the eBook quizzes.**
 - Lesson 1: Common Computing Devices
 - Lesson 2: Using a Workstation
 - Lesson 3: Using an OS
