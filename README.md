@@ -4,7 +4,7 @@ Welcome to the course schedule & supplemental materials for CompTIA IT Fundament
 ## Helpful Links
 - Shortlink to this page: https://tinyurl.com/icc-itfundamentals
 - Activate eBook: https://login.comptia.org/#redeemAccessKeys
-- eBook: https://learn.comptia.org/app/comptia-certmaster-learn-for-itf-fc0-u61-ebook#resources
+- eBook: https://www.comptia.org -> Click "Log In", then scroll down to "Access Your Training". Click the link for "Student Guide"
 - LabSim: https://labsimapp.testout.com/v6_0_545/index.html
 - MyICC: https://eservices.icc.edu
 - Student Email: http://webmail.lab.icc.edu/
